@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T19:16:45.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="feYF5-TmyLHvKnU1inHJ" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T19:48:31.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="H3hdTgeeIeYnU0qeyvYx" version="24.4.3" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
-    <mxGraphModel dx="469" dy="207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2a0f93b5c73ef8e7-1" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#000000;align=center;strokeColor=#AE4132;" parent="1" vertex="1">
-          <mxGeometry x="360" y="70" width="10" height="910" as="geometry" />
+          <mxGeometry x="360" y="150" width="10" height="830" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="135" width="220" height="85" as="geometry" />
@@ -67,20 +67,17 @@
         <mxCell id="wxc87kO-zrwL6i2Q87dr-3" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Prototipação&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Aplicação de testes piloto&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
           <mxGeometry x="205" y="370" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wxc87kO-zrwL6i2Q87dr-4" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&#xa;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&#xa;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&#xa;mso-ansi-language:PT-BR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;oleta,&#xa;organização, tratamento, análise, apresentação e interpretação dos dados.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="870" width="610" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wxc87kO-zrwL6i2Q87dr-5" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 9px; text-wrap: wrap;&quot;&gt;aplicação de modelos por IA&amp;nbsp; para identificação de padrões no processo de aprendizagem&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="870" width="390" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="wxc87kO-zrwL6i2Q87dr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="950" width="220" height="85" as="geometry" />
         </mxCell>
         <mxCell id="wxc87kO-zrwL6i2Q87dr-7" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="340" y="982.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wxc87kO-zrwL6i2Q87dr-9" value="&lt;h1&gt;Prescrição&lt;/h1&gt;&lt;p&gt;Levantamento de hipóteses, realização de testes empíricos,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;d&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;esenvolvimento de propostas para educação&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="365" y="970" width="160" height="81" as="geometry" />
+        <mxCell id="wxc87kO-zrwL6i2Q87dr-9" value="&lt;h1&gt;Proposição&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Desenvolvimento de propostas para educação&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;aplicação de modelos por IA&amp;nbsp; para identificação de padrões no processo de aprendizagem&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="950" width="210" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="wxc87kO-zrwL6i2Q87dr-11" value="&lt;h1&gt;Prescrição&lt;/h1&gt;&lt;p&gt;Levantamento de hipóteses, realização de testes empíricos,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;aplicação de modelos por IA&amp;nbsp; para identificação de padrões no processo de aprendizagem&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="205" y="830" width="180" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
